@@ -1,0 +1,29 @@
+body {
+    background-color: #fecf92;
+    font-family: 'Caudex', serif;
+}
+
+#mainNavbar {
+    background-color: #27b376;
+}
+
+.navbar-brand {
+    font-size: 1.5em;    
+    letter-spacing: .15rem;
+}
+
+.navbar-brand span {
+    color: #bf212f;
+}
+
+#navLink {
+    color: #264b96;
+    font-size: 1.25em;
+    line-height: 1.5;
+    transition: 500ms;
+}
+
+#navLink:hover {
+    color: #fecf92;
+    
+}
