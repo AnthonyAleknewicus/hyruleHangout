@@ -1,10 +1,10 @@
 body {
-    background-color: #fecf92;
+    background-color: rgba(254, 207, 146, 0.50);
     font-family: 'Caudex', serif;
 }
 
 #mainNavbar {
-    background-color: #27b376;
+    background-color: rgb(39, 179, 118);
 }
 
 .navbar-brand {
@@ -13,17 +13,17 @@ body {
 }
 
 .navbar-brand span {
-    color: #bf212f;
+    color: rgb(191, 33, 47);
 }
 
 #navLink {
-    color: #264b96;
+    color: rgb(38, 75, 150);
     font-size: 1.25em;
     line-height: 1.5;
     transition: 500ms;
 }
 
 #navLink:hover {
-    color: #fecf92;
+    color: rgba(254, 207, 146);
     
 }
